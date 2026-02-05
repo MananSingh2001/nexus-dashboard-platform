@@ -1,0 +1,8 @@
+FROM node:18-alpine
+WORKDIR /app
+COPY nexus-ui-engine/package*.json ./
+RUN npm install
+COPY nexus-ui-engine .
+RUN npm run build
+EXPOSE 3000
+CMD ["npm", "run", "start"]
