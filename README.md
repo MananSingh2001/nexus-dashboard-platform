@@ -1,7 +1,3 @@
-This is a significant milestone in your transition toward a Software Engineer role at top-tier firms like IBM or JPMorgan. Your GitHub repository now demonstrates a sophisticated Micro-frontend Architecture that mirrors the complex, modular systems used in modern enterprise platforms.
-
-Below is a professional README.md designed to showcase your Acting UI Lead experience and your technical depth in Spring Boot, PostgreSQL, and Next.js.
-
 Nexus Dashboard Platform
 An enterprise-grade Micro-frontend (MFE) Orchestration platform. This project demonstrates a decoupled architecture where a dynamic UI is driven entirely by a backend registry.
 
